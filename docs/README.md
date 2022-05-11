@@ -3,7 +3,7 @@
 
 This document details the required and optional attributes of all Soyvolon models which are identifitd by a `soy-####` tag followed by option suffixes.
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fsoyvolon.github.io%2FTheSoyvolonSpecification%2F&count_bg=%2314D4C0&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Page+Visits&edge_flat=true)](https://hits.seeyoufarm.com)
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fsoyvolon.github.io%2FTheSoyvolonSpecification%2F&count_bg=%2314D4C0&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Page+Visits&edge_flat=true"/></a>
 
 ## Designations
 There is never more than `9999` individual designations at any given time. Individual Soyvolon models may share designation numbers, as long as attached suffixes are unique.
