@@ -15,7 +15,7 @@ soy-9281-p-d
 ```
 Model designations do have an importance beyond marking indiviudal Soyvolon models. Each model that shares a model designation is closely tied with the other models in such a way that sharing a model designations allows for access of shared resources. A model with the designation of `1010` would be able to access saved memory of another model with the designation of `1010`, but not a model with a differnt designation.
 
-The numberical values in each of the four digits of the designation also hold meaning for the Soyvolon models. The previous example has two models with the designation number `9281`. Taking the first digit from the right, the `9` of this model number designates this model as a surplus task model. See [Designation Numbers](#Designation-Numbers) for detailed information about the meaning behind mdoel numbers.
+The numberical values in each of the four digits of the designation also hold meaning for the Soyvolon models. The previous example has two models with the designation number `9281`. Taking the first digit from the right, the `9` of this model number designates this model as a surplus task model. See [Designation Numbers](#Designation-Numbers) for detailed information about the meaning behind model numbers.
 
 Suffixies are used to determine a specific role a model has. As in the example above, the `p` suffix is used. The `p` suffix represents a programming focoused model. See [Designation Suffixes](#Designation-Suffixes) for more information.
 
